@@ -14,7 +14,7 @@ int main() {
     // Affichage du tableau
     printf("Ligne 1 : "); 
     for (i = 0; i < 10; i++) {
-        printf("%d ", tableau[0][i]);
+        printf("%d ", tableau[0][i]);  
     }
 
     printf("\nLigne 2 : ");
