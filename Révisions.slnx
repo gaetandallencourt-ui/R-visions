@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ex1 Partie1/Ex1 Partie1.vcxproj" />
+  <Project Path="Ex1/Ex1.vcxproj" />
+  <Project Path="Ex2 Partie2/Ex2 Partie2.vcxproj" />
+  <Project Path="Ex2/Ex2.vcxproj" />
+  <Project Path="Ex3 Partie2/Ex3 Partie2.vcxproj" />
+  <Project Path="Ex4 Partie2/Ex4 Partie2.vcxproj" />
+  <Project Path="Ex5 Partie2/Ex5 Partie2.vcxproj" />
+  <Project Path="Ex6 Partie2/Ex6 Partie2.vcxproj" />
+  <Project Path="Ex7 Partie2/Ex7 Partie2.vcxproj" />
+</Solution>
