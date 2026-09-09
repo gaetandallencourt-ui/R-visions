@@ -7,7 +7,7 @@ int main() {
 
     // Remplissage du tableau
     for (i = 0; i < 10; i++) {
-        tableau[0][i] = i;          // 1ère ligne : 0 à 9
+        tableau[0][i] = i;          // 1ère ligne : 0 à 9   
         tableau[1][i] = i * 3;     // 2ème ligne : triple des valeurs
     }
 
